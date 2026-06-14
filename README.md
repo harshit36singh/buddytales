@@ -1,4 +1,4 @@
-# AI Story Buddy & Quiz - Flutter (MVVM)
+# BuddyTales - AI Story Buddy & Quiz
 
 ## Structure
 
